@@ -1,0 +1,1 @@
+ADI verification note: quasar pipeline checkpoint.

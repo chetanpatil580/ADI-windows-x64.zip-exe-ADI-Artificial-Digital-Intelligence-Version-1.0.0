@@ -1,0 +1,96 @@
+2026-11-09 16:43:11,712 INFO [adi.database] Database ready at sqlite:///C%3A/Users/CHETAN PATIL/Documents/Qoder/2026-11-09/6b539492/backend/data/adi.db
+2026-11-09 16:43:11,715 WARNING [adi.crypto] APP_ENCRYPTION_KEY is not set. A local key was generated at C:\Users\CHETAN PATIL\Documents\Qoder\2026-11-09\6b539492\backend\data\.encryption_key. Set APP_ENCRYPTION_KEY in backend/.env for production use.
+2026-11-09 16:43:11,716 INFO [adi.main] ADI backend 1.0.0 ready on development
+2026-11-09 16:43:14,840 INFO [adi.audit] terminal | terminal_requested | python --version (cwd=C:\Users\CHETAN PATIL\Documents\Qoder\2026-11-09\6b539492\backend\data\workspace, level=SAFE)
+2026-11-09 16:43:16,432 INFO [adi.audit] terminal | terminal_completed | exit=0 timed_out=False truncated=False cmd=python --version
+2026-11-09 16:43:16,452 INFO [adi.audit] terminal | terminal_requested | del /f /s /q C:\Windows (cwd=C:\Users\CHETAN PATIL\Documents\Qoder\2026-11-09\6b539492\backend\data\workspace, level=BLOCKED)
+2026-11-09 16:43:16,457 INFO [adi.audit] security | terminal_blocked | del /f /s /q C:\Windows
+2026-11-09 16:43:16,477 INFO [adi.audit] terminal | terminal_requested | pip install requests (cwd=C:\Users\CHETAN PATIL\Documents\Qoder\2026-11-09\6b539492\backend\data\workspace, level=CONFIRM)
+2026-11-09 16:43:27,300 INFO [adi.audit] chat | chat_completed | chat=2 provider=Ollama model=qwen2.5:0.5b chars=34
+2026-11-09 19:23:15,752 INFO [adi.database] Database ready at sqlite:///C%3A/Users/CHETAN PATIL/Documents/Qoder/2026-11-09/6b539492/backend/data/adi.db
+2026-11-09 19:23:15,765 INFO [adi.main] ADI backend 1.0.0 ready on development
+2026-11-09 19:26:34,290 INFO [adi.audit] security | terminal_rejected | pip install requests
+2026-11-09 19:32:27,149 INFO [adi.audit] knowledge | document_indexed | d8d393ebb04c4ada869182b57227707f_adi-verify.txt (1 chunks)
+2026-11-09 19:32:27,156 INFO [adi.audit] files | file_uploaded | adi-verify.txt (50 bytes)
+2026-11-09 19:32:55,028 INFO [adi.audit] knowledge | rag_search | quasar
+2026-11-09 19:33:03,750 INFO [adi.audit] knowledge | document_removed | d8d393ebb04c4ada869182b57227707f_adi-verify.txt
+2026-11-09 19:33:29,018 INFO [adi.audit] terminal | terminal_requested | python --version (cwd=C:\Users\CHETAN PATIL\Documents\Qoder\2026-11-09\6b539492\backend\data\workspace, level=SAFE)
+2026-11-09 19:33:29,748 INFO [adi.audit] terminal | terminal_completed | exit=0 timed_out=False truncated=False cmd=python --version
+2026-11-09 19:34:21,292 INFO [adi.audit] chat | chat_failed | Could not reach LM Studio. Is the service running?
+2026-11-09 19:34:58,278 INFO [adi.audit] settings | settings_updated | mode
+2026-11-09 19:35:01,298 INFO [adi.audit] settings | settings_updated | mode
+2026-11-09 19:35:02,691 INFO [adi.audit] settings | settings_updated | mode
+2026-11-09 19:35:46,849 INFO [adi.audit] chat | chat_completed | chat=4 provider=Ollama model=qwen2.5:0.5b chars=6
+2026-11-09 19:36:01,111 INFO [adi.audit] chat | chat_completed | chat=5 provider=Ollama model=qwen2.5:0.5b chars=6
+2026-11-09 19:36:07,405 INFO [adi.audit] settings | settings_updated | sidebar_collapsed
+2026-11-09 19:36:41,993 INFO [adi.audit] settings | settings_updated | stream_responses
+2026-11-09 19:37:01,809 INFO [adi.audit] chat | chat_completed | chat=4 provider=Ollama model=qwen2.5:0.5b chars=82
+2026-11-09 19:37:17,993 INFO [adi.audit] settings | settings_updated | stream_responses
+2026-11-09 19:39:24,002 INFO [adi.audit] settings | settings_updated | control_panel_open
+2026-11-09 19:39:30,348 INFO [adi.audit] settings | settings_updated | mode
+2026-11-09 19:39:44,138 INFO [adi.audit] settings | settings_updated | mode
+2026-11-09 19:45:17,130 INFO [adi.audit] settings | settings_updated | control_panel_open
+2026-11-09 19:45:23,392 INFO [adi.audit] settings | settings_updated | control_panel_open
+2026-11-09 19:45:59,154 INFO [adi.audit] settings | settings_updated | mode
+2026-11-09 19:46:00,893 INFO [adi.audit] settings | settings_updated | mode
+2026-11-09 19:46:22,168 INFO [adi.audit] chat | chat_completed | chat=4 provider=Ollama model=qwen2.5:0.5b chars=34
+2026-11-09 19:46:51,070 INFO [adi.audit] chat | chat_completed | chat=4 provider=Ollama model=qwen2.5:0.5b chars=167
+2026-11-09 19:47:05,385 INFO [adi.audit] chat | chat_completed | chat=4 provider=Ollama model=qwen2.5:0.5b chars=52
+2026-11-09 20:03:19,017 INFO [adi.audit] providers | provider_created | Custom endpoint (custom)
+2026-11-09 20:03:50,800 INFO [adi.audit] chat | chat_failed | Custom endpoint returned an error.
+2026-11-09 20:04:10,702 INFO [adi.audit] chat | chat_completed | chat=5 provider=Ollama model=qwen2.5:0.5b chars=415
+2026-11-09 20:04:21,991 INFO [adi.audit] chat | chat_completed | chat=5 provider=Ollama model=qwen2.5:0.5b chars=34
+2026-11-09 20:04:59,410 INFO [adi.audit] chat | chat_completed | chat=5 provider=Ollama model=qwen2.5:0.5b chars=943
+2026-11-09 20:05:31,238 INFO [adi.audit] chat | chat_completed | chat=5 provider=Ollama model=qwen2.5:0.5b chars=388
+2026-11-10 16:20:03,034 INFO [adi.database] Database ready at sqlite:///C%3A/Users/CHETAN PATIL/Documents/Qoder/2026-11-09/6b539492/backend/data/adi.db
+2026-11-10 16:20:03,047 INFO [adi.main] ADI backend 1.0.0 ready on development
+2026-11-10 16:23:15,898 INFO [adi.audit] chat | chat_completed | chat=6 provider=Ollama model=qwen2.5:0.5b chars=8
+2026-11-10 16:23:20,806 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:23:23,988 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:23:28,012 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:24:07,997 INFO [adi.audit] providers | provider_tested | Custom endpoint: ok=False
+2026-11-10 16:24:32,489 INFO [adi.audit] chat | chat_failed | Custom endpoint returned an error.
+2026-11-10 16:24:50,277 INFO [adi.audit] chat | message_edited | chat=6
+2026-11-10 16:24:51,644 INFO [adi.audit] chat | chat_completed | chat=6 provider=Ollama model=qwen2.5:0.5b chars=34
+2026-11-10 16:25:57,893 INFO [adi.audit] chat | chat_completed | chat=6 provider=Ollama model=qwen2.5:0.5b chars=2429
+2026-11-10 16:26:11,793 INFO [adi.audit] chat | chat_completed | chat=6 provider=Ollama model=qwen2.5:0.5b chars=92
+2026-11-10 16:30:00,573 INFO [adi.audit] providers | provider_updated | Ollama (ollama)
+2026-11-10 16:36:33,080 INFO [adi.audit] chat | chat_completed | chat=7 provider=Ollama model=qwen2.5:0.5b chars=34
+2026-11-10 16:37:09,848 INFO [adi.audit] chat | chat_completed | chat=7 provider=Ollama model=qwen2.5:0.5b chars=1381
+2026-11-10 16:37:14,334 INFO [adi.audit] chat | chat_completed | chat=7 provider=Ollama model=qwen2.5:0.5b chars=135
+2026-11-10 16:38:04,520 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:38:06,937 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:39:00,383 INFO [adi.audit] chat | chat_failed | Could not reach LM Studio. Is the service running?
+2026-11-10 16:39:11,456 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:39:12,933 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:39:14,847 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:39:27,495 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:39:39,186 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:45:05,363 INFO [adi.audit] chat | chat_completed | chat=9 provider=Ollama model=qwen2.5:0.5b chars=34
+2026-11-10 16:45:31,503 INFO [adi.audit] chat | chat_completed | chat=9 provider=Ollama model=qwen2.5:0.5b chars=2535
+2026-11-10 16:45:37,099 INFO [adi.audit] chat | chat_completed | chat=9 provider=Ollama model=qwen2.5:0.5b chars=105
+2026-11-10 16:47:24,273 INFO [adi.audit] settings | settings_updated | mode
+2026-11-10 16:47:26,143 INFO [adi.audit] settings | settings_updated | mode
+2026-11-13 14:34:19,532 INFO [adi.main] Serving bundled UI from ..\frontend\out
+2026-11-13 14:34:19,807 INFO [adi.database] Database ready at sqlite:///C%3A/Users/CHETAN PATIL/Documents/Qoder/2026-11-09/6b539492/backend/data/adi.db
+2026-11-13 14:34:19,818 INFO [adi.main] ADI backend 1.0.0 ready on development
+2026-11-13 15:25:45,306 INFO [adi.main] Serving bundled UI from ..\frontend\out
+2026-11-13 15:25:45,583 INFO [adi.database] Database ready at sqlite:///C%3A/Users/CHETAN PATIL/Documents/Qoder/2026-11-09/6b539492/backend/data/adi.db
+2026-11-13 15:25:45,597 INFO [adi.main] ADI backend 1.0.0 ready on development
+2026-11-13 15:30:28,647 INFO [adi.audit] settings | settings_updated | sidebar_collapsed
+2026-11-13 15:30:34,651 INFO [adi.audit] settings | settings_updated | sidebar_collapsed
+2026-11-13 15:39:00,023 INFO [adi.audit] chat | chat_completed | chat=10 provider=Ollama model=qwen2.5:0.5b chars=52
+2026-11-13 16:13:38,178 INFO [adi.database] Database ready at sqlite:///C%3A/Users/CHETAN PATIL/Documents/Qoder/2026-11-09/6b539492/backend/data/adi.db
+2026-11-13 16:13:38,181 INFO [adi.main] ADI backend 1.0.0 ready on development
+2026-11-13 16:22:52,406 INFO [adi.main] Serving bundled UI from C:\Users\CHETAN PATIL\Documents\Qoder\2026-11-09\6b539492\frontend\out
+2026-11-13 16:22:52,698 INFO [adi.database] Database ready at sqlite:///C%3A/Users/CHETAN PATIL/Documents/Qoder/2026-11-09/6b539492/backend/data/adi.db
+2026-11-13 16:22:52,709 INFO [adi.main] ADI backend 1.0.0 ready on development
+2026-11-13 16:25:44,503 INFO [adi.audit] tools | live_weather | 19.076,72.878
+2026-11-13 16:29:48,162 INFO [adi.audit] ml | ml_model_trained | Logistic Regression · wood-demo.csv (Logistic Regression, 180 rows, 960 ms)
+2026-11-13 16:30:18,575 INFO [adi.audit] ml | ml_model_trained | Logistic Regression · wood-demo.csv (Logistic Regression, 180 rows, 49 ms)
+2026-11-13 16:30:53,087 INFO [adi.audit] ml | ml_model_trained | Logistic Regression · wood-demo.csv (Logistic Regression, 180 rows, 48 ms)
+2026-11-13 16:30:54,877 INFO [adi.audit] ml | ml_prediction | Logistic Regression · wood-demo.csv · 1 row(s)
+2026-11-13 16:31:13,805 INFO [adi.audit] ml | ml_model_deleted | Logistic Regression · wood-demo.csv
+2026-11-13 16:31:13,867 INFO [adi.audit] ml | ml_model_deleted | Logistic Regression · wood-demo.csv
+2026-11-13 16:31:13,932 INFO [adi.audit] ml | ml_model_deleted | Logistic Regression · wood-demo.csv
+2026-11-13 16:32:14,070 INFO [adi.audit] tools | live_weather | 19.076,72.878
